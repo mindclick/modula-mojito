@@ -4,4 +4,4 @@ Modula has [not been able to maintain the theme](http://www.modula.fi/2011/somet
 
 Contributions and improvements via GitHub are most welcome, to be able to maintain compatiblity with the latest versions of Redmine (and now, for [ChiliProject](https://www.chiliproject.org) also).
 
-_You should also check [Modula Martini](https://github.com/bevanr/martini), another discontinued theme from being maintained by [Bevan Rudge](https://github.com/bevanr)._
+_You should also check [Modula Martini](https://github.com/bevanr/martini), another discontinued theme from Modula being maintained by [Bevan Rudge](https://github.com/bevanr)._
