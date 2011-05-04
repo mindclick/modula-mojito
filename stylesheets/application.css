@@ -74,7 +74,8 @@ h2, .wiki h1 {
 .wiki h1 { font-family: helvetica, "microsoft sans serif", arial, sans-serif; }
 .wiki h2 { background-color: #fff; }
 
-h3, h4 { font-weight: normal; color: #7aa054;}
+h3 { font-size: 14px; font-weight: bold; color: #7aa054; }
+h4 { font-weight: normal; color: #7aa054; }
 
 #sidebar h3 { color: #cde9a7; border-bottom:1px solid #989898; padding:6px 0; }
 
