@@ -228,7 +228,7 @@ input[type="text"], textarea, select {
 .jstElements { margin-right: 3.5em;}
 .tabular label { font-weight: normal;}
 
-.contextual { margin-top: 0.3em; margin-right: 1em; font-size: 0.9em; line-height: 45px; }
+.contextual { margin-top: 0.3em; margin-right: 0.7em; font-size: 0.9em; line-height: 45px; }
 .contextual a{ color:#455138;}
 
 
