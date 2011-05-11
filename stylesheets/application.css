@@ -79,6 +79,9 @@ h4 { font-weight: normal; color: #7aa054; }
 
 #sidebar h3 { color: #cde9a7; border-bottom:1px solid #989898; padding:6px 0; }
 
+/* Wiki / Notes */
+.wiki p { overflow: hidden; }
+
 /* Links */
 
 #sidebar a:hover { background-color:#003399; color:#FFFFFF; text-decoration: none;}
